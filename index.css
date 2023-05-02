@@ -9,7 +9,6 @@
 h1{
 color: white;
 font-family: Georgia, 'Times New Roman', Times, serif;
-background-color: ;
 margin-top: 50px;
 margin-bottom: 40px;
 box-shadow: 20px;
@@ -107,11 +106,14 @@ nav p{
 .top:hover{
     background-color:rgb(96, 99, 143);
 }
-h1 ::after{
-    content:;
-}
 body{
     text-align: center;
 }
-
+h1 i{
+    background-color: rgb(151, 151, 61);
+    
+}
+main img:hover{
+opacity: 0.5;
+}
 
