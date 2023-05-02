@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:  rgb(44, 43, 43);
+    text-align: center;
+
+}
+h1{
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: ;
+margin-top: 50px;
+margin-bottom: 40px;
+box-shadow: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    background-color:#a99776;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin:40px 20px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.h1{
+    color:navajowhite
+    margin:  90px;
+    font-size: 50px;
+
+}
+nav a:hover{
+
+    color:red;
+    
+}
+h1:hover{
+    color: coral;
+}
+h3{
+    color:red ;
+    margin-top: 300px;
+    margin-bottom: 20px;
+}
+h3:hover{
+    color:darksalmon;
+}
+img{
+    margin: 5px;
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+
+}
+div a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    display:inline-block;
+    
+}
+div a:hover{
+    color: red;
+}
+nav p{
+    color:dimgray;
+    border: 3px solid rgb(159, 39, 63);
+    width: 80%;
+    height: 50px;
+    margin: 20px 100px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.h3{
+    margin: 20px;
+    color: white;
+    
+}
+.your{
+    height: 100px;
+}
+.send{
+    height: 70px;
+    background-color:darkred;
+    width: 80%;
+    color: white;
+    padding: 10px;
+    margin: 20px 100px;
+    border-radius: 10px;
+}
+.send:hover{
+    color: black;
+}
+.top{
+    text-align: right;
+    border-radius: 15px;
+    border: 5px solid red;
+    color: white;
+    width: 100px;
+    
+    padding: 5px;
+    margin:40px  90% ;
+    background-color: ;
+    text-align: center;
+}
+.top:hover{
+    background-color:rgb(96, 99, 143);
+}
+h1 ::after{
+    content:;
+}
+body{
+    text-align: center;
+}
+
+
